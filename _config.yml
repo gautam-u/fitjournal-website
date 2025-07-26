@@ -1,0 +1,16 @@
+title: FitJournal
+email: fitjournal-support@gmail.com
+description: >-
+  The official FitJournal app landing page. Track your fitness, sync with HealthKit, and stay motivated.
+baseurl: ""
+url: "https://gautam-u.github.io/fitjournal-website"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Social links
+github_username: gautam-u
+
+# Build settings
+markdown: kramdown
