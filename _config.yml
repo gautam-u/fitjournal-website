@@ -1,16 +1,42 @@
-title: FitJournal
-email: fitjournal-support@gmail.com
-description: >-
-  The official FitJournal app landing page. Track your fitness, sync with HealthKit, and stay motivated.
-baseurl: ""
-url: "https://gautam-u.github.io/fitjournal-website"
-theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+# Automatic App Landing Page Jekyll Theme
+# https://github.com/emilbaehr/automatic-app-landing-page
+
+# App details
+app_title: "FitJournal"
+app_description: "Track your workouts, sync with HealthKit, and stay motivated. Privacy-first fitness tracking for iOS."
+app_store_link: "https://apps.apple.com/app/idYOUR_APP_ID"
+play_store_link: ""
+
+# Screenshots (add your images to /assets/img/)
+screenshots:
+  - screenshot1.png
+  - screenshot2.png
+
+# Video preview (optional)
+video_preview: ""
+
+# Features
+features:
+  - "HealthKit integration"
+  - "Workout tracking"
+  - "Progress charts"
+  - "Privacy-first design"
 
 # Social links
-github_username: gautam-u
+support_email: "fitjournal-support@gmail.com"
+privacy_policy_url: "https://gautam-u.github.io/fitjournal-website/privacy-policy.html"
 
-# Build settings
+# Theme settings
+primary_color: "#007aff"
+secondary_color: "#ffffff"
+
+# SEO
+seo_title: "FitJournal - iOS Fitness Tracker"
+seo_description: "Track workouts, sync with HealthKit, and stay motivated. Privacy-first fitness tracking for iOS."
+
+# GitHub Pages settings
+baseurl: ""
+url: "https://gautam-u.github.io/fitjournal-website"
+
+# Jekyll settings
 markdown: kramdown
