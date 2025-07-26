@@ -1,0 +1,44 @@
+body {
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  background: #fff;
+  color: #222;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3 {
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  font-weight: 700;
+}
+
+// Better font rendering
+body {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	background-color: $body-color;
+}
+
+a:link,
+a:hover,
+a:visited,
+a:active {
+	color: $accent-color;
+	text-decoration: none;
+}
+
+// Shadows
+$drop-shadow: 	drop-shadow(0px 5px 10px rgba(#000, 0.1)) 
+				drop-shadow(0px 1px 1px rgba(#000, 0.2)
+				);
+
+// Various resets
+*,
+*::before,
+*::after {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+
+	margin: 0;
+	padding: 0;
+}

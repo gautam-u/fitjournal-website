@@ -1,38 +1,41 @@
-# Automatic App Landing Page Jekyll Theme
-# https://github.com/emilbaehr/automatic-app-landing-page
+#page title
+page_title: FitJournal - iOS Fitness Tracker
 
-# App details
-app_title: "FitJournal"
-app_description: "Track your workouts, sync with HealthKit, and stay motivated. Privacy-first fitness tracking for iOS."
-app_store_link: "https://apps.apple.com/app/idYOUR_APP_ID"
-play_store_link: ""
+# App Info
+app_icon: /assets/app_icon.png
+app_name: FitJournal
+app_price: Free
+app_description: Track your workouts, sync with HealthKit, and stay motivated. Privacy-first fitness tracking for iOS.
 
-# Screenshots (add your images to /assets/img/)
-screenshots:
-  - screenshot1.png
-  - screenshot2.png
+# Store Links
+appstore_link: https://apps.apple.com/app/idYOUR_APP_ID
+playstore_link: 
 
-# Video preview (optional)
-video_preview: ""
+# Information About Yourself
+your_name: FitJournal Team
+your_link: https://github.com/gautam-u
+your_city: 
+email_address: gsd.iosapps@gmail.com
+facebook_username: 
+instagram_username: 
+twitter_username: 
+github_username:
+youtube_username: 
 
-# Features
+# Feature List
 features:
-  - "HealthKit integration"
-  - "Workout tracking"
-  - "Progress charts"
-  - "Privacy-first design"
+  - title: HealthKit Integration
+    description: Seamlessly sync your workout data with Apple Health for a complete fitness picture.
+    fontawesome_icon_name: heart
+  - title: Progress Tracking
+    description: Intuitive charts and analytics to visualize your fitness journey and achievements.
+    fontawesome_icon_name: chart-line
+  - title: Privacy First
+    description: Your personal data stays on your device - no cloud storage, no data mining.
+    fontawesome_icon_name: shield-alt
 
-# Social links
-support_email: "fitjournal-support@gmail.com"
-privacy_policy_url: "https://gautam-u.github.io/fitjournal-website/privacy-policy.html"
-
-# Theme settings
-primary_color: "#007aff"
-secondary_color: "#ffffff"
-
-# SEO
-seo_title: "FitJournal - iOS Fitness Tracker"
-seo_description: "Track workouts, sync with HealthKit, and stay motivated. Privacy-first fitness tracking for iOS."
+# Theme Settings
+# Remove all custom theme settings and revert to default minima theme
 
 # GitHub Pages settings
 baseurl: ""
@@ -40,3 +43,5 @@ url: "https://gautam-u.github.io/fitjournal-website"
 
 # Jekyll settings
 markdown: kramdown
+sass:
+  style: compressed
