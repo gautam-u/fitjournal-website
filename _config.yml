@@ -2,7 +2,7 @@
 page_title: FitJournal - iOS Fitness Tracker
 
 # App Info
-app_icon: /assets/app_icon.png
+app_icon: assets/app_icon.png
 app_name: FitJournal
 app_price: Free
 app_description: Track your workouts, sync with HealthKit, and stay motivated. Privacy-first fitness tracking for iOS.

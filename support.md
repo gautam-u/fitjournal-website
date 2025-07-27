@@ -2,7 +2,7 @@
 layout: default
 title: Support
 include_in_header: true
-permalink: /support.html
+permalink: /support/
 ---
 
 <div class="content" style="max-width: 700px; margin: 0 auto;">

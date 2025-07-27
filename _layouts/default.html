@@ -256,11 +256,20 @@
     }
     
     .hero h1 {
+      color: var(--color-primary-blue); /* Fallback color */
       background: linear-gradient(135deg, var(--color-primary-blue), var(--color-primary-purple));
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       background-clip: text;
       margin-bottom: var(--spacing-xl);
+    }
+    
+    /* Fallback for browsers that don't support background-clip: text */
+    @supports not (-webkit-background-clip: text) {
+      .hero h1 {
+        color: var(--color-primary-blue);
+        background: none;
+      }
     }
     
     .hero p {
@@ -550,8 +559,8 @@
     <div class="container">
       <div class="footer-content">
         <ul class="footer-links">
-          <li><a href="{{ '/privacy-policy' | relative_url }}">Privacy Policy</a></li>
-          <li><a href="{{ '/support' | relative_url }}">Support</a></li>
+          <li><a href="{{ '/privacy-policy/' | relative_url }}">Privacy Policy</a></li>
+          <li><a href="{{ '/support/' | relative_url }}">Support</a></li>
           {% if site.github_username %}
             <li><a href="https://github.com/{{ site.github_username }}" target="_blank">GitHub</a></li>
           {% endif %}

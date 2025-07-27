@@ -2,7 +2,7 @@
 layout: default
 title: Privacy Policy
 include_in_header: true
-permalink: /privacy-policy.html
+permalink: /privacy-policy/
 ---
 
 <div class="content" style="max-width: 800px; margin: 0 auto;">
