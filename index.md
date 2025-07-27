@@ -17,13 +17,13 @@ title: FitJournal - Privacy-First Fitness Tracking for iOS
 
 <div class="screenshots">
   <div class="screenshot">
-    <img src="/assets/screenshots/home.png" alt="Home Tab Screenshot">
+    <img src="{{ '/assets/screenshots/home.png' | relative_url }}" alt="Home Tab Screenshot">
   </div>
   <div class="screenshot">
-    <img src="/assets/screenshots/progress.png" alt="Progress Tab Screenshot">
+    <img src="{{ '/assets/screenshots/progress.png' | relative_url }}" alt="Progress Tab Screenshot">
   </div>
   <div class="screenshot">
-    <img src="/assets/screenshots/smart_workout.png" alt="Smart Workout Screenshot">
+    <img src="{{ '/assets/screenshots/smart_workout.png' | relative_url }}" alt="Smart Workout Screenshot">
   </div>
 </div>
 

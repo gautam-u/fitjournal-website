@@ -38,8 +38,8 @@ features:
 # Remove all custom theme settings and revert to default minima theme
 
 # GitHub Pages settings
-baseurl: ""
-url: "https://gautam-u.github.io/fitjournal-website"
+baseurl: "/FitJournalWebsite"
+url: "https://gautam-u.github.io"
 
 # Jekyll settings
 markdown: kramdown
