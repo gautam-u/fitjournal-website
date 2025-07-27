@@ -1,7 +1,19 @@
+# Jekyll
 _site/
-vendor/
-.DS_Store
-*.gem
-.bundle
 .jekyll-cache/
 .jekyll-metadata
+
+# Ruby
+vendor/
+.bundle
+*.gem
+.rvm
+
+# General
+.DS_Store
+*.log
+*.tmp
+
+# IDEs
+.vscode/
+.idea/
