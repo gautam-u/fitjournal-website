@@ -5,7 +5,7 @@ page_title: FitJournal - iOS Fitness Tracker
 app_icon: /assets/app_icon.png
 app_name: FitJournal
 app_price: Free
-app_description: Track your workouts, sync with HealthKit, and stay motivated. Privacy-first fitness tracking for iOS.
+app_description: Create smart workout plans with intelligent exercise selection, progression tracking, and dynamic exercise shuffling. Privacy-first home fitness for iOS.
 
 # Store Links
 appstore_link: https://apps.apple.com/app/idYOUR_APP_ID
@@ -24,12 +24,21 @@ youtube_username:
 
 # Feature List
 features:
+  - title: Smart Exercise Selection
+    description: Intelligent exercise recommendations based on your equipment, training frequency, and fitness goals.
+    fontawesome_icon_name: brain
+  - title: Dynamic Exercise Shuffling
+    description: Swap exercises intelligently while maintaining muscle group targets and workout balance.
+    fontawesome_icon_name: shuffle
+  - title: Progressive Overload Intelligence
+    description: AI-powered suggestions to automatically increase sets and reps based on your performance patterns.
+    fontawesome_icon_name: chart-line
+  - title: Equipment-Based Planning
+    description: Create personalized workout plans using dumbbells, resistance bands, bodyweight, or gym equipment.
+    fontawesome_icon_name: dumbbell
   - title: HealthKit Integration
     description: Seamlessly sync your workout data with Apple Health for a complete fitness picture.
     fontawesome_icon_name: heart
-  - title: Progress Tracking
-    description: Intuitive charts and analytics to visualize your fitness journey and achievements.
-    fontawesome_icon_name: chart-line
   - title: Privacy First
     description: Your personal data stays on your device - no cloud storage, no data mining.
     fontawesome_icon_name: shield-alt

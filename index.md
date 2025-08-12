@@ -4,8 +4,8 @@ title: FitJournal - Privacy-First Fitness Tracking for iOS
 ---
 
 <div class="hero animate-fade-in-up">
-  <h1 class="text-gradient">Your Fitness Journey,<br>Your Privacy First</h1>
-  <p class="mb-2xl">Track your workouts, visualize progress, and stay motivated with FitJournal — the minimalist fitness app that keeps your data private and secure on your device.</p>
+  <h1 class="text-gradient">Smart Home Workouts,<br>Your Privacy First</h1>
+  <p class="mb-2xl">Create personalized workout plans with intelligent exercise selection, smart progression tracking, and exercise shuffling — all while keeping your data private and secure on your device.</p>
   
   <div style="display: flex; justify-content: center; margin-bottom: var(--spacing-4xl);">
     <a href="{{ site.appstore_link | default: '#' }}" class="btn btn-primary btn-large">
@@ -17,13 +17,13 @@ title: FitJournal - Privacy-First Fitness Tracking for iOS
 
 <div class="screenshots">
   <div class="screenshot">
-    <img src="{{ '/assets/screenshots/home.png' | relative_url }}" alt="Home Tab Screenshot">
+    <img src="{{ '/assets/screenshots/home.png' | relative_url }}" alt="Equipment Selection - Choose Your Available Equipment">
   </div>
   <div class="screenshot">
-    <img src="{{ '/assets/screenshots/progress.png' | relative_url }}" alt="Progress Tab Screenshot">
+    <img src="{{ '/assets/screenshots/progress.png' | relative_url }}" alt="Smart Exercise Plan - AI-Powered Exercise Recommendations">
   </div>
   <div class="screenshot">
-    <img src="{{ '/assets/screenshots/smart_workout.png' | relative_url }}" alt="Smart Workout Screenshot">
+    <img src="{{ '/assets/screenshots/smart_workout.png' | relative_url }}" alt="Dynamic Workout Interface with Exercise Shuffling">
   </div>
 </div>
 
@@ -55,10 +55,10 @@ title: FitJournal - Privacy-First Fitness Tracking for iOS
     
     <div class="card feature-card animate-fade-in-up">
       <div class="feature-icon">
-        <i class="fas fa-chart-bar"></i>
+        <i class="fas fa-magic"></i>
       </div>
-      <h3>Smart Analytics</h3>
-      <p>Visualize your progress with intuitive charts and insights that help you understand your fitness patterns.</p>
+      <h3>Smart Workout Intelligence</h3>
+      <p>AI-powered exercise shuffling and progressive overload suggestions that adapt to your performance and keep workouts fresh.</p>
     </div>
     
     <div class="card feature-card animate-fade-in-up">
