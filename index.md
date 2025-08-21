@@ -5,7 +5,7 @@ title: FitJournal - Privacy-First Fitness Tracking for iOS
 
 <div class="hero animate-fade-in-up">
   <h1 class="text-gradient">Smart Home Workouts,<br>Your Privacy First</h1>
-  <p class="mb-2xl">Create personalized workout plans with intelligent exercise selection, smart progression tracking, and exercise shuffling — all while keeping your data private and secure on your device.</p>
+  <p class="mb-2xl">Experience the future of fitness with intelligent workout planning, live timer controls, and AI-powered exercise suggestions. Create personalized training plans that adapt to your progress — all while keeping your data private and secure on your device.</p>
   
   <div style="display: flex; justify-content: center; margin-bottom: var(--spacing-4xl);">
     <a href="{{ site.appstore_link | default: '#' }}" class="btn btn-primary btn-large">
@@ -17,13 +17,16 @@ title: FitJournal - Privacy-First Fitness Tracking for iOS
 
 <div class="screenshots">
   <div class="screenshot">
-    <img src="{{ '/assets/screenshots/home.png' | relative_url }}" alt="Equipment Selection - Choose Your Available Equipment">
+    <img src="{{ '/assets/screenshots/home.png' | relative_url }}" alt="Today's Workout - Smart Exercise Selection with AI Suggestions">
   </div>
   <div class="screenshot">
-    <img src="{{ '/assets/screenshots/progress.png' | relative_url }}" alt="Smart Exercise Plan - AI-Powered Exercise Recommendations">
+    <img src="{{ '/assets/screenshots/smart-workout.png' | relative_url }}" alt="Active Workout - Live Timer with Set Tracking and Progress">
   </div>
   <div class="screenshot">
-    <img src="{{ '/assets/screenshots/smart_workout.png' | relative_url }}" alt="Dynamic Workout Interface with Exercise Shuffling">
+    <img src="{{ '/assets/screenshots/workout-plan-days.png' | relative_url }}" alt="Smart Workout Plan - Customize Exercise Sets and Difficulty">
+  </div>
+  <div class="screenshot">
+    <img src="{{ '/assets/screenshots/workout-style.png' | relative_url }}" alt="Workout Style Selection - Flexible Training Options">
   </div>
 </div>
 
@@ -47,26 +50,26 @@ title: FitJournal - Privacy-First Fitness Tracking for iOS
     <!-- Additional consolidated features -->
     <div class="card feature-card animate-fade-in-up">
       <div class="feature-icon">
-        <i class="fas fa-mobile-alt"></i>
+        <i class="fas fa-stopwatch"></i>
       </div>
-      <h3>Native iOS Design</h3>
-      <p>Built specifically for iOS with SwiftUI, featuring beautiful native design patterns and system integration.</p>
+      <h3>Live Workout Timer</h3>
+      <p>Built-in workout timer with pause, stop, and settings controls. Track your workout duration in real-time with precise timing.</p>
     </div>
     
     <div class="card feature-card animate-fade-in-up">
       <div class="feature-icon">
         <i class="fas fa-magic"></i>
       </div>
-      <h3>Smart Workout Intelligence</h3>
-      <p>AI-powered exercise shuffling and progressive overload suggestions that adapt to your performance and keep workouts fresh.</p>
+      <h3>AI-Powered Suggestions</h3>
+      <p>Smart exercise recommendations that learn from your performance. Get intelligent suggestions to level up your workout intensity.</p>
     </div>
     
     <div class="card feature-card animate-fade-in-up">
       <div class="feature-icon">
-        <i class="fas fa-lock"></i>
+        <i class="fas fa-cogs"></i>
       </div>
-      <h3>Complete Privacy</h3>
-      <p>Your workout data stays on your device. No cloud storage, no data mining, no tracking — just pure privacy.</p>
+      <h3>Flexible Workout Styles</h3>
+      <p>Choose between full-body workouts or muscle group splits. Customize your training days and structure to match your lifestyle.</p>
     </div>
   </div>
 </section>

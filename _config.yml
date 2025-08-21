@@ -5,7 +5,7 @@ page_title: FitJournal - iOS Fitness Tracker
 app_icon: /assets/app_icon.png
 app_name: FitJournal
 app_price: Free
-app_description: Create smart workout plans with intelligent exercise selection, progression tracking, and dynamic exercise shuffling. Privacy-first home fitness for iOS.
+app_description: Experience the future of fitness with intelligent workout planning, live timer controls, and AI-powered exercise suggestions. Create personalized training plans that adapt to your progress — all while keeping your data private and secure on your device.
 
 # Store Links
 appstore_link: https://apps.apple.com/app/idYOUR_APP_ID
@@ -24,23 +24,23 @@ youtube_username:
 
 # Feature List
 features:
-  - title: Smart Exercise Selection
-    description: Intelligent exercise recommendations based on your equipment, training frequency, and fitness goals.
+  - title: Smart Exercise Planning
+    description: Intelligent exercise recommendations based on your equipment, training frequency, and fitness goals. Customize sets, reps, and weights for each exercise.
     fontawesome_icon_name: brain
-  - title: Dynamic Exercise Shuffling
-    description: Swap exercises intelligently while maintaining muscle group targets and workout balance.
-    fontawesome_icon_name: shuffle
-  - title: Progressive Overload Intelligence
-    description: AI-powered suggestions to automatically increase sets and reps based on your performance patterns.
-    fontawesome_icon_name: chart-line
+  - title: Live Workout Tracking
+    description: Real-time workout timer with intuitive set tracking. Complete exercises with visual feedback and progress indicators.
+    fontawesome_icon_name: play-circle
+  - title: AI Workout Suggestions
+    description: Get intelligent suggestions to level up your workout. AI-powered recommendations adapt to your performance and keep workouts challenging.
+    fontawesome_icon_name: lightbulb
+  - title: Flexible Training Styles
+    description: Choose between full-body workouts or custom muscle group splits. Structure your weekly training to match your schedule.
+    fontawesome_icon_name: calendar-alt
   - title: Equipment-Based Planning
-    description: Create personalized workout plans using dumbbells, resistance bands, bodyweight, or gym equipment.
+    description: Create personalized workout plans using dumbbells, resistance bands, bodyweight, or gym equipment. Select your available equipment during setup.
     fontawesome_icon_name: dumbbell
-  - title: HealthKit Integration
-    description: Seamlessly sync your workout data with Apple Health for a complete fitness picture.
-    fontawesome_icon_name: heart
   - title: Privacy First
-    description: Your personal data stays on your device - no cloud storage, no data mining.
+    description: Your personal data stays on your device - no cloud storage, no data mining, no tracking. Complete privacy by design.
     fontawesome_icon_name: shield-alt
 
 # Theme Settings
