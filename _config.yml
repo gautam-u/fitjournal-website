@@ -47,7 +47,7 @@ features:
 # Remove all custom theme settings and revert to default minima theme
 
 # GitHub Pages settings
-baseurl: "/fitjournal-website"
+baseurl: ""
 url: "https://gautam-u.github.io"
 
 # Jekyll settings

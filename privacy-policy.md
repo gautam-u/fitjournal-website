@@ -8,7 +8,7 @@ permalink: /privacy-policy/
 <div class="content" style="max-width: 800px; margin: 0 auto;">
   <div class="text-center mb-2xl">
     <h1>Privacy Policy</h1>
-    <p>Your privacy is our priority. Here's how FitJournal protects your personal information.</p>
+    <p>Your privacy is our priority. Here's how Home Workout - FitJournal protects your personal information.</p>
     <p style="font-size: 0.9rem; color: var(--color-text-tertiary); margin-bottom: 0;">Last updated: {{ site.time | date: '%B %d, %Y' }}</p>
   </div>
 
@@ -16,7 +16,7 @@ permalink: /privacy-policy/
     <div style="text-align: center;">
       <i class="fas fa-shield-alt" style="font-size: 3rem; margin-bottom: var(--spacing-lg); opacity: 0.9;"></i>
       <h2 style="color: white; margin-bottom: var(--spacing-lg);">Privacy-First Design</h2>
-      <p style="color: rgba(255, 255, 255, 0.9); font-size: 1.1rem; margin-bottom: 0;">FitJournal is built from the ground up with your privacy in mind. Your fitness data stays on your device, always.</p>
+      <p style="color: rgba(255, 255, 255, 0.9); font-size: 1.1rem; margin-bottom: 0;">Home Workout - FitJournal is built from the ground up with your privacy in mind. Your fitness data stays on your device, always.</p>
     </div>
   </div>
 

@@ -1,4 +1,4 @@
-# FitJournal Website
+# FitJournal
 
 Official FitJournal app website showcasing smart home workout features including:
 
