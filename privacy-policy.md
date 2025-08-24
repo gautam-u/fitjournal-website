@@ -9,7 +9,10 @@ permalink: /privacy-policy/
   <div class="text-center mb-2xl">
     <h1>Privacy Policy</h1>
     <p>Your privacy is our priority. Here's how Home Workout - FitJournal protects your personal information.</p>
-    <p style="font-size: 0.9rem; color: var(--color-text-tertiary); margin-bottom: 0;">Last updated: {{ site.time | date: '%B %d, %Y' }}</p>
+    <p style="font-size: 0.9rem; color: var(--color-text-tertiary); margin-bottom: 0;">Last updated: January 23, 2025</p>
+    <div style="background: #e8f4f8; border: 2px solid #2196F3; border-radius: 8px; padding: 1rem; margin-top: 1rem;">
+      <p style="margin: 0; color: #1976D2; font-weight: 600;">🔒 2025 Compliance: This app includes required Privacy Manifest and uses modern StoreKit APIs for maximum security and App Store approval.</p>
+    </div>
   </div>
 
   <div class="card" style="background: linear-gradient(135deg, var(--color-primary-green), var(--color-primary-blue)); color: white; margin-bottom: var(--spacing-2xl);">
@@ -77,6 +80,33 @@ permalink: /privacy-policy/
   </div>
 
   <div class="card" style="margin-bottom: var(--spacing-2xl);">
+    <h2>🔒 2025 Privacy Manifest Compliance</h2>
+    <p>FitJournal includes a Privacy Manifest (PrivacyInfo.xcprivacy) as required by Apple since May 2024. This manifest declares:</p>
+    <div style="background: #f9f9f9; padding: 1rem; border-radius: 6px; margin: 1rem 0;">
+      <h4>📱 Required API Usage</h4>
+      <ul style="margin-left: var(--spacing-lg);">
+        <li><strong>User Defaults:</strong> Storing app preferences and settings locally</li>
+        <li><strong>File System:</strong> Managing local workout data storage efficiently</li>
+        <li><strong>System Boot Time:</strong> Performance monitoring and crash reporting</li>
+        <li><strong>File Timestamps:</strong> Tracking when workouts were created or modified</li>
+      </ul>
+      <p style="font-size: 0.9rem; color: #666; margin: 0;">All API usage includes proper reason codes and complies with Apple's 2025 requirements.</p>
+    </div>
+  </div>
+
+
+  <div class="card" style="margin-bottom: var(--spacing-2xl);">
+    <h2>📊 Subscription & Payment Privacy</h2>
+    <p>For premium features available through subscription:</p>
+    <ul style="margin-left: var(--spacing-lg);">
+      <li><strong>Payment Processing:</strong> Handled entirely by Apple through the App Store</li>
+      <li><strong>No Payment Data:</strong> We never receive or store your payment information</li>
+      <li><strong>Subscription Status:</strong> Verified locally using Apple's secure APIs</li>
+      <li><strong>Receipt Validation:</strong> Uses SHA-256 secure validation (2025 compliant)</li>
+    </ul>
+  </div>
+
+  <div class="card" style="margin-bottom: var(--spacing-2xl);">
     <h2>Your Rights</h2>
     <p>Since all data is stored on your device, you have complete control:</p>
     <ul style="margin-left: var(--spacing-lg); margin-top: var(--spacing-md);">
@@ -84,6 +114,7 @@ permalink: /privacy-policy/
       <li><strong>Export:</strong> Data can be exported through Apple Health's export feature</li>
       <li><strong>Delete:</strong> Simply delete the app to remove all data</li>
       <li><strong>Portability:</strong> Your data syncs with Apple Health for use with other apps</li>
+      <li><strong>Privacy Control:</strong> Manage all permissions through iOS Settings</li>
     </ul>
   </div>
 

@@ -2,6 +2,7 @@
 layout: page
 title: Terms of Service
 permalink: /terms/
+hide_header: true
 ---
 
 # Terms of Service
