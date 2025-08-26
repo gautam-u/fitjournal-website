@@ -3,7 +3,7 @@ page_title: FitJournal - iOS Fitness Tracker
 title: FitJournal
 
 # App Info
-app_icon: /assets/app_icon.png
+app_icon: /assets/app-icon.png
 app_name: FitJournal
 app_price: Free
 app_description: Experience the future of fitness with intelligent workout planning, live timer controls, and AI-powered exercise suggestions. Create personalized training plans that adapt to your progress — all while keeping your data private and secure on your device.
@@ -48,7 +48,7 @@ features:
 # Remove all custom theme settings and revert to default minima theme
 
 # GitHub Pages settings
-baseurl: ""
+baseurl: "/fitjournal-website"
 url: "https://gautam-u.github.io"
 
 # Jekyll settings
