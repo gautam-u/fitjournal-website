@@ -8,8 +8,8 @@ permalink: /privacy-policy/
 <div class="content" style="max-width: 800px; margin: 0 auto;">
   <div class="text-center mb-2xl">
     <h1>Privacy Policy</h1>
-    <p>Your privacy is our priority. Here's how Home Workout - FitJournal protects your personal information.</p>
-    <p style="font-size: 0.9rem; color: var(--color-text-tertiary); margin-bottom: 0;">Last updated: January 23, 2025</p>
+    <p>Your privacy is our priority. Here's how HomeGym Pro protects your personal information.</p>
+    <p style="font-size: 0.9rem; color: var(--color-text-tertiary); margin-bottom: 0;">Last updated: January 28, 2025</p>
     <div style="background: #e8f4f8; border: 2px solid #2196F3; border-radius: 8px; padding: 1rem; margin-top: 1rem;">
       <p style="margin: 0; color: #1976D2; font-weight: 600;">🔒 2025 Compliance: This app includes required Privacy Manifest and uses modern StoreKit APIs for maximum security and App Store approval.</p>
     </div>
@@ -19,7 +19,7 @@ permalink: /privacy-policy/
     <div style="text-align: center;">
       <i class="fas fa-shield-alt" style="font-size: 3rem; margin-bottom: var(--spacing-lg); opacity: 0.9;"></i>
       <h2 style="color: white; margin-bottom: var(--spacing-lg);">Privacy-First Design</h2>
-      <p style="color: rgba(255, 255, 255, 0.9); font-size: 1.1rem; margin-bottom: 0;">Home Workout - FitJournal is built from the ground up with your privacy in mind. Your fitness data stays on your device, always.</p>
+      <p style="color: rgba(255, 255, 255, 0.9); font-size: 1.1rem; margin-bottom: 0;">HomeGym Pro is built from the ground up with your privacy in mind. Your fitness data stays on your device, always.</p>
     </div>
   </div>
 
@@ -36,11 +36,11 @@ permalink: /privacy-policy/
     
     <div class="card">
       <h3><i class="fas fa-heart" style="color: var(--color-primary-red); margin-right: var(--spacing-sm);"></i>HealthKit Integration</h3>
-      <p>FitJournal integrates with Apple HealthKit to sync your workout data with the Health app, but this data never leaves your device.</p>
+      <p>HomeGym Pro integrates with Apple HealthKit to sync your workout data with the Health app, but this data never leaves your device.</p>
       <ul style="margin-left: var(--spacing-lg); color: var(--color-text-secondary);">
         <li>Health data access requires your explicit permission</li>
         <li>You can revoke access at any time in iOS Settings</li>
-        <li>Data syncs locally between FitJournal and Health app</li>
+        <li>Data syncs locally between HomeGym Pro and the Health app</li>
       </ul>
     </div>
   </div>
@@ -60,7 +60,7 @@ permalink: /privacy-policy/
         <p style="margin-bottom: var(--spacing-lg);">We don't track how you use the app or collect behavioral data.</p>
         
         <h4 style="color: var(--color-primary-red);">❌ Location Data</h4>
-        <p style="margin-bottom: 0;">FitJournal doesn't access or store your location information.</p>
+        <p style="margin-bottom: 0;">HomeGym Pro doesn't access or store your location information.</p>
       </div>
     </div>
   </div>
@@ -69,10 +69,10 @@ permalink: /privacy-policy/
     <h2>Technical Details</h2>
     <div style="margin-top: var(--spacing-lg);">
       <h4>Data Storage</h4>
-      <p>FitJournal uses iOS Core Data and Keychain services to store your information securely on your device. This data is included in your device backups but remains encrypted and inaccessible to us.</p>
+      <p>HomeGym Pro uses iOS Core Data and Keychain services to store your information securely on your device. This data is included in your device backups but remains encrypted and inaccessible to us.</p>
       
       <h4>App Updates</h4>
-      <p>When you update FitJournal through the App Store, no personal information is transmitted to us. The App Store handles the update process independently.</p>
+      <p>When you update HomeGym Pro through the App Store, no personal information is transmitted to us. The App Store handles the update process independently.</p>
       
       <h4>Crash Reports</h4>
       <p>If you opt in to share crash data with Apple, technical information about app crashes may be sent to Apple and shared with us. This data does not include your personal fitness information.</p>
@@ -81,7 +81,7 @@ permalink: /privacy-policy/
 
   <div class="card" style="margin-bottom: var(--spacing-2xl);">
     <h2>🔒 2025 Privacy Manifest Compliance</h2>
-    <p>FitJournal includes a Privacy Manifest (PrivacyInfo.xcprivacy) as required by Apple since May 2024. This manifest declares:</p>
+    <p>HomeGym Pro includes a Privacy Manifest (PrivacyInfo.xcprivacy) as required by Apple since May 2024. This manifest declares:</p>
     <div style="background: #f9f9f9; padding: 1rem; border-radius: 6px; margin: 1rem 0;">
       <h4>📱 Required API Usage</h4>
       <ul style="margin-left: var(--spacing-lg);">
@@ -120,7 +120,7 @@ permalink: /privacy-policy/
 
   <div class="card">
     <h2>Contact Us</h2>
-    <p>If you have questions about this privacy policy or FitJournal's privacy practices:</p>
+    <p>If you have questions about this privacy policy or HomeGym Pro's privacy practices:</p>
     <div style="margin-top: var(--spacing-lg);">
       <a href="mailto:{{ site.email_address }}" class="btn btn-primary" style="margin-right: var(--spacing-md);">
         <i class="fas fa-envelope"></i>

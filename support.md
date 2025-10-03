@@ -8,7 +8,7 @@ permalink: /support/
 <div class="content" style="max-width: 700px; margin: 0 auto;">
   <div class="text-center mb-2xl">
     <h1>How Can We Help?</h1>
-    <p>Get support, report issues, or share feedback about FitJournal.</p>
+    <p>Get support, report issues, or share feedback about HomeGym Pro.</p>
   </div>
 
   <div class="grid grid-2">
@@ -21,8 +21,8 @@ permalink: /support/
     
     <div class="card">
       <h3><i class="fas fa-bug" style="color: var(--color-primary-red); margin-right: var(--spacing-sm);"></i>Bug Reports</h3>
-      <p>Found a bug? Help us improve FitJournal by reporting it:</p>
-      <a href="mailto:{{ site.email_address }}?subject=Bug Report - FitJournal" class="btn btn-secondary">Report Bug</a>
+      <p>Found a bug? Help us improve HomeGym Pro by reporting it:</p>
+      <a href="mailto:{{ site.email_address }}?subject=Bug Report - HomeGym Pro" class="btn btn-secondary">Report Bug</a>
       <p style="font-size: 0.9rem; margin-top: var(--spacing-md); margin-bottom: 0; color: var(--color-text-tertiary);">Please include your device model and iOS version</p>
     </div>
   </div>
@@ -33,12 +33,12 @@ permalink: /support/
     <div style="text-align: left; margin-top: var(--spacing-xl);">
       <div style="margin-bottom: var(--spacing-xl);">
         <h4 style="color: var(--color-primary-blue); margin-bottom: var(--spacing-sm);">Is my data secure?</h4>
-        <p style="margin-bottom: 0;">Yes! FitJournal stores all your workout data locally on your device. We don’t collect, store, or share your personal fitness information.</p>
+        <p style="margin-bottom: 0;">Yes! HomeGym Pro stores all your workout data locally on your device. We don’t collect, store, or share your personal fitness information.</p>
       </div>
       
       <div style="margin-bottom: var(--spacing-xl);">
         <h4 style="color: var(--color-primary-green); margin-bottom: var(--spacing-sm);">How do I sync with Apple Health?</h4>
-        <p style="margin-bottom: 0;">FitJournal integrates seamlessly with HealthKit. Simply grant permissions when prompted, and your workout data will automatically sync with the Health app.</p>
+        <p style="margin-bottom: 0;">HomeGym Pro integrates seamlessly with HealthKit. Simply grant permissions when prompted, and your workout data will automatically sync with the Health app.</p>
       </div>
       
       <div style="margin-bottom: 0;">
@@ -49,8 +49,8 @@ permalink: /support/
   </div>
 
   <div style="text-align: center; margin-top: var(--spacing-4xl);">
-    <h3>Love FitJournal?</h3>
-    <p>Help us spread the word by leaving a review on the App Store!</p>
+    <h3>Love HomeGym Pro?</h3>
+    <p>Help us spread the word by leaving a review on the App Store or sharing your Pro membership wins!</p>
     <a href="{{ site.appstore_link | default: '#' }}" class="btn btn-primary">
       <i class="fas fa-star"></i>
       Rate on App Store

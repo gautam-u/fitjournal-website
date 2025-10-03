@@ -7,21 +7,21 @@ hide_header: true
 
 # Terms of Service
 
-Your agreement with FitJournal for using our fitness application.
+Your agreement with HomeGym Pro for using our premium home fitness application.
 
-**Last updated:** August 17, 2025
+**Last updated:** January 28, 2025
 
 ---
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using the FitJournal app ("the App"), you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the App.
+By downloading, installing, or using the HomeGym Pro app ("the App"), you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the App.
 
 ---
 
 ## 2. App Description
 
-FitJournal is a fitness application that provides personalized workout routines, exercise tracking, and progress monitoring. The App integrates with Apple Health to provide a comprehensive fitness experience while keeping your data private and secure on your device.
+HomeGym Pro is a premium home fitness application that provides personalized workout routines, AI-powered coaching, progress monitoring, and HealthKit sync. The App integrates with Apple Health to provide a comprehensive fitness experience while keeping your data private and secure on your device.
 
 ---
 
@@ -29,6 +29,10 @@ FitJournal is a fitness application that provides personalized workout routines,
 
 ### Auto-Renewable Subscriptions
 Premium features are available through auto-renewable subscriptions processed by Apple.
+
+Current subscription options include:
+- **Monthly Pro Access** – flexible, cancel anytime plan with full premium feature set
+- **Yearly Pro Access** – best-value plan with exclusive programming and advanced analytics
 
 ### Payment & Billing
 - Payment will be charged to your Apple ID account at the confirmation of purchase
@@ -74,7 +78,7 @@ You may not:
 
 ## 6. Privacy
 
-Your privacy is fundamental to how we built FitJournal. Please review our [Privacy Policy](/privacy-policy/) to understand how we protect your information. Key points:
+Your privacy is fundamental to how we built HomeGym Pro. Please review our [Privacy Policy](/privacy-policy/) to understand how we protect your information. Key points:
 
 - All workout data stays on your device
 - No personal information is collected or stored on our servers
@@ -180,4 +184,4 @@ These Terms are effective as of the date you first use the App and remain in eff
 
 ---
 
-*By using FitJournal, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.*
+*By using HomeGym Pro, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.*

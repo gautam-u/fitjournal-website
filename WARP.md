@@ -4,7 +4,7 @@ This file provides guidance to WARP (warp.dev) when working with code in this re
 
 ## Project Overview
 
-This is the official website for FitJournal, an iOS fitness tracking app. The site is built with Jekyll and deployed via GitHub Pages, serving as the app's marketing site, privacy policy, and support portal.
+This is the official website for HomeGym Pro, a premium iOS home fitness app. The site is built with Jekyll and deployed via GitHub Pages, serving as the app's marketing site, privacy policy, and support portal.
 
 **Tech Stack**: Jekyll 4.3.2, Sass, GitHub Pages
 **Purpose**: iOS app marketing website with privacy policy and support pages
