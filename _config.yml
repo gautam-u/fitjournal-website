@@ -55,3 +55,7 @@ url: "https://gautam-u.github.io"
 markdown: kramdown
 sass:
   style: compressed
+
+# Include files that start with underscores or dots
+include:
+  - app-ads.txt
