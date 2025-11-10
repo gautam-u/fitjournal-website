@@ -1,17 +1,17 @@
 ---
 layout: default
-title: HomeGym Pro - Premium Home Workouts for iOS
+title: HomeGym Pro - Smart Home Workouts for iOS
 ---
 
 <div class="hero animate-fade-in-up">
-  <h1 class="text-gradient">HomeGym Pro<br>Premium Home Workouts</h1>
-  <p class="mb-xl">HomeGym Pro brings studio-quality training to your living room with adaptive workout plans, AI coaching, and HealthKit sync. Start free, then upgrade to Pro memberships for deeper analytics and curated programs — all while your data stays securely on your device.</p>
-  <p class="mb-2xl" style="color: var(--color-text-secondary); max-width: 680px; margin-left: auto; margin-right: auto;">Monthly and yearly HomeGym Pro memberships unlock advanced programming, premium support, and an ever-growing library of home workout collections.</p>
-  
+  <h1 class="text-gradient">HomeGym Pro<br>Smart Home Workouts</h1>
+  <p class="mb-xl">Transform your home into a personal training studio with AI-powered workout plans, smart exercise selection, and comprehensive HealthKit integration. Start with 3 free workouts per week, or unlock unlimited access with Premium.</p>
+  <p class="mb-2xl" style="color: var(--color-text-secondary); max-width: 680px; margin-left: auto; margin-right: auto;">Premium membership ($2.99/month or $19.99/year) unlocks unlimited workouts, removes ads, and provides advanced analytics — all while your data stays privately on your device.</p>
+
   <div style="display: flex; justify-content: center; margin-bottom: var(--spacing-4xl);">
     <a href="{{ site.appstore_link | default: '#' }}" class="btn btn-primary btn-large">
       <i class="fab fa-apple"></i>
-      Get HomeGym Pro on the App Store
+      Download on the App Store
     </a>
   </div>
 </div>
@@ -39,10 +39,10 @@ title: HomeGym Pro - Premium Home Workouts for iOS
 
 <section class="features">
   <div class="text-center mb-2xl">
-    <h2>Train Smarter with HomeGym Pro</h2>
-    <p>On-device intelligence, adaptive programming, and seamless HealthKit sync keep every workout fast, focused, and private.</p>
+    <h2>Start Free, Upgrade When Ready</h2>
+    <p>Begin with 3 free workouts per week and essential features. Upgrade to Premium for unlimited workouts, advanced analytics, and an ad-free experience.</p>
   </div>
-  
+
   <div class="grid grid-3">
     {% for feature in site.features %}
     <div class="card feature-card animate-fade-in-up">
@@ -58,24 +58,24 @@ title: HomeGym Pro - Premium Home Workouts for iOS
 
 <section class="features">
   <div class="text-center mb-2xl">
-    <h2>Flexible HomeGym Pro Memberships</h2>
-    <p>Choose the upgrade path that matches your commitment and unlock the full premium experience.</p>
+    <h2>Simple, Transparent Pricing</h2>
+    <p>Try the free tier with no trial needed. Upgrade to Premium when you're ready for unlimited workouts and advanced features.</p>
   </div>
-  
+
   <div class="grid grid-2">
     <div class="card feature-card animate-fade-in-up">
       <div class="feature-icon">
         <i class="fas fa-calendar-check"></i>
       </div>
-      <h3>Monthly Pro Access</h3>
-      <p>Stay flexible with a monthly membership that delivers advanced workouts, recovery guidance, and priority support.</p>
+      <h3>Monthly Premium - $2.99/month</h3>
+      <p>Perfect for getting started. Unlimited workouts, ad-free experience, advanced analytics, and custom workout builder with AI suggestions.</p>
     </div>
     <div class="card feature-card animate-fade-in-up">
       <div class="feature-icon">
         <i class="fas fa-award"></i>
       </div>
-      <h3>Yearly Pro Access</h3>
-      <p>Commit to your goals with the best-value plan, including exclusive collections, deeper performance reporting, and seasonal challenges.</p>
+      <h3>Yearly Premium - $19.99/year</h3>
+      <p>Best value! Save 44% with annual billing. All premium features including unlimited workouts, complete ad removal, and priority support.</p>
     </div>
   </div>
 </section>

@@ -1,12 +1,12 @@
 #page title
-page_title: HomeGym Pro - Premium Home Workouts for iOS
+page_title: HomeGym Pro - Smart Home Workouts for iOS
 title: HomeGym Pro
 
 # App Info
 app_icon: /assets/app-icon.png
 app_name: HomeGym Pro
 app_price: Free with Premium options
-app_description: HomeGym Pro delivers premium home workouts with adaptive training plans, AI-powered suggestions, and full HealthKit sync — all with privacy-first architecture and flexible monthly or yearly memberships when you’re ready to go Pro.
+app_description: Transform your home into a personal training studio with AI-powered workout plans, smart exercise selection, and comprehensive HealthKit integration. Start with 3 free workouts per week, or unlock unlimited access with Premium ($2.99/month or $19.99/year).
 
 # Store Links
 appstore_link: https://apps.apple.com/us/app/homegym-pro/id6749831774
@@ -25,24 +25,24 @@ youtube_username:
 
 # Feature List
 features:
-  - title: Personalized Workout Plans
-    description: Generate a premium-strength training plan that adapts to your goals, schedule, and available equipment at home.
-    fontawesome_icon_name: clipboard-check
-  - title: Daily Sessions That Evolve
-    description: Stay motivated with dynamic daily workouts and live timers that update as your strength improves.
-    fontawesome_icon_name: calendar-day
-  - title: AI Coaching Suggestions
-    description: Receive smart exercise swaps and intensity recommendations powered by on-device intelligence.
-    fontawesome_icon_name: robot
-  - title: Home Gym Setup Wizard
-    description: Configure your dumbbells, bands, racks, and more so every session fits perfectly into your space.
-    fontawesome_icon_name: home
-  - title: HealthKit Sync & Insights
-    description: Sync workouts to Apple Health automatically and review progress with detailed performance analytics.
+  - title: AI-Powered Workout Planning
+    description: Smart exercise selection based on your equipment, goals, and preferences. 200+ exercises covering bodyweight, dumbbells, resistance bands, and more.
+    fontawesome_icon_name: brain
+  - title: Start Free (3 Workouts/Week)
+    description: Try the app with no commitment. 3 complete workouts per week with access to the full exercise database and basic progress tracking.
+    fontawesome_icon_name: gift
+  - title: Premium Unlimited Access
+    description: Unlock unlimited workouts, remove all ads, and access advanced analytics for just $2.99/month or $19.99/year (save 44%).
+    fontawesome_icon_name: crown
+  - title: Comprehensive HealthKit Integration
+    description: Sync workouts to Apple Health automatically with detailed tracking including heart rate, calories burned, and workout duration.
     fontawesome_icon_name: heartbeat
-  - title: Go Pro Memberships
-    description: Unlock monthly or yearly HomeGym Pro memberships for curated programs, advanced stats, and premium support.
-    fontawesome_icon_name: star
+  - title: Smart Equipment Setup
+    description: Configure your home gym equipment (dumbbells, bands, kettlebells, pull-up bar) and get personalized workout recommendations.
+    fontawesome_icon_name: dumbbell
+  - title: Privacy-First Design
+    description: All workout data stays locally on your device. No cloud uploads, no tracking across apps, and complete control over your fitness data.
+    fontawesome_icon_name: shield-alt
 
 # Theme Settings
 # Remove all custom theme settings and revert to default minima theme
