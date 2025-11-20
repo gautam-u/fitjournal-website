@@ -290,7 +290,6 @@ If any provision of these Terms is found to be unenforceable or invalid, that pr
 
 If you have questions about these Terms of Service or need support:
 
-**Email:** [sunitha.vaishnavi@gmail.com](mailto:sunitha.vaishnavi@gmail.com)
 **Website:** https://gautam-u.github.io/fitjournal-website/
 **App Store:** HomeGym Pro
 
