@@ -1,22 +1,22 @@
 #page title
-page_title: HomeGym Pro - Smart Home Workouts for iOS
-title: HomeGym Pro
+page_title: "Gain for iPhone"
+title: "Gain"
 
 # App Info
 app_icon: /assets/app-icon.png
-app_name: HomeGym Pro
+app_name: "Gain"
 app_price: Free with Premium options
-app_description: Transform your home into a personal training studio with AI-powered workout plans, smart exercise selection, and comprehensive HealthKit integration. Start with 3 free workouts per week, or unlock unlimited access with Premium ($2.99/month or $19.99/year).
+app_description: "Know what to train today. Keep your weekly plan, exercise swaps and working weights close at hand."
 
 # Store Links
-appstore_link: https://apps.apple.com/us/app/homegym-pro/id6749831774
+appstore_link: "https://apps.apple.com/app/id6749831774"
 playstore_link: 
 
 # Information About Yourself
 your_name: HomeGym Pro Team
 your_link: https://github.com/gautam-u
 your_city: 
-email_address: gautam.ux@gmail.com
+email_address: "gautam.ux@gmail.com"
 facebook_username: 
 instagram_username: 
 twitter_username: 
@@ -25,27 +25,12 @@ youtube_username:
 
 # Feature List
 features:
-  - title: AI-Powered Workout Planning
-    description: Smart exercise selection based on your equipment, goals, and preferences. 200+ exercises covering bodyweight, dumbbells, resistance bands, and more.
-    fontawesome_icon_name: brain
-  - title: Start Free (3 Workouts/Week)
-    description: Try the app with no commitment. 3 complete workouts per week with access to the full exercise database and basic progress tracking.
-    fontawesome_icon_name: gift
-  - title: Premium Unlimited Access
-    description: Unlock unlimited workouts, remove all ads, and access advanced analytics for just $2.99/month or $19.99/year (save 44%).
-    fontawesome_icon_name: crown
-  - title: Comprehensive HealthKit Integration
-    description: Sync workouts to Apple Health automatically with detailed tracking including heart rate, calories burned, and workout duration.
-    fontawesome_icon_name: heartbeat
-  - title: Smart Equipment Setup
-    description: Configure your home gym equipment (dumbbells, bands, kettlebells, pull-up bar) and get personalized workout recommendations.
-    fontawesome_icon_name: dumbbell
-  - title: Privacy-First Design
-    description: All workout data stays locally on your device. No cloud uploads, no tracking across apps, and complete control over your fitness data.
-    fontawesome_icon_name: shield-alt
-
-# Theme Settings
-# Remove all custom theme settings and revert to default minima theme
+  - title: "See the whole week"
+    description: "View and edit day-specific workouts, sets, reps and weights in one plan."
+  - title: "Keep variety predictable"
+    description: "Configure your saved A/B alternatives. Review an exercise and its equipment before swapping."
+  - title: "Take your plan with you"
+    description: "Copy, export or import a complete JSON plan with validation and a preview."
 
 # GitHub Pages settings
 baseurl: "/fitjournal-website"

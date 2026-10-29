@@ -1,17 +1,11 @@
-# HomeGym Pro Website
+# Gain website
 
-Official HomeGym Pro marketing site showcasing premium home workout features including:
+Production: https://gautam-u.github.io/fitjournal-website/
 
-- **Adaptive Training Plans** – Personalized programming that reacts to your progress and schedule
-- **AI Coaching Suggestions** – Intelligent exercise swaps and intensity recommendations that stay on-device
-- **HealthKit Sync & Analytics** – Automatic workout exports with privacy-first in-app insights
-- **Monthly & Yearly Pro Memberships** – Flexible upgrade paths for curated programs and advanced stats
+The homepage (`index.html`), support (`support/index.html`) and privacy (`privacy-policy/index.html`) pages are static HTML, served by GitHub Pages. Existing Terms of Service remain in `terms.md`, rendered through the shared Jekyll layouts. The deployment paths are unchanged.
 
-Built with Jekyll and powered by GitHub Pages for App Store support, privacy policy, and marketing.
+`assets/site-v2.css` provides the shared responsive design. `assets/gallery.js` switches local screenshots and captions only; it does not send analytics. Without JavaScript the first screenshot and full-size image link still work.
 
-## Recent Updates (January 2025)
+`assets/screenshots-current/source-manifest.json` records screenshot sources and app version. Release-candidate screens are labeled on the homepage; do not imply they are already in the public store version.
 
-- Rebranded the site from FitJournal to HomeGym Pro
-- Added premium App Store screenshots highlighting Pro memberships
-- Refreshed feature messaging around AI coaching and HealthKit sync
-- Updated legal and support pages to reflect new HomeGym Pro branding
+Preview static pages with an HTTP server mounted at `/fitjournal-website/`. GitHub Pages also builds the existing Jekyll terms page. Check desktop and phone layouts, screenshot controls and support/privacy/terms navigation before publishing. Preserve app-ads.txt where present.

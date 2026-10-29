@@ -7,37 +7,36 @@ hide_header: true
 
 # Terms of Service
 
-Your agreement with HomeGym Pro for using our premium home fitness application.
+Your agreement with Gain for using our premium home fitness application.
 
-**Last updated:** November 5, 2025
+**Last updated:** October 28, 2026
 
 ---
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using the HomeGym Pro app ("the App"), you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the App.
+By downloading, installing, or using the Gain app ("the App"), you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the App.
 
 ---
 
 ## 2. App Description
 
-HomeGym Pro is a home fitness application that provides personalized workout routines, AI-powered exercise selection, progress tracking, and HealthKit integration. The App operates on a freemium model with both free and premium tiers.
+Gain is a home fitness application that provides personalized workout routines, equipment-aware exercise selection, progress tracking, and HealthKit integration. The App operates on a freemium model with both free and premium tiers.
 
 ### Free Tier Features:
-- 3 complete workouts per week
-- 230+ exercise database
+- Unlimited complete workouts
+- Exercise catalog with equipment filters
 - Equipment-based workout planning (dumbbells, resistance bands, kettlebells, bodyweight)
 - Basic progress tracking
 - HealthKit integration (optional)
 - Ad-supported experience
 
 ### Premium Subscription Features:
-- Unlimited workouts per week
+- Higher AI workout-generation allowance, subject to availability
 - Ad-free experience (NO advertisements)
 - Advanced analytics and insights
 - Custom workout builder
 - Unlimited workout history
-- Priority support
 
 ---
 
@@ -52,7 +51,7 @@ Prices may vary by region and are subject to applicable taxes.
 
 ### 3.2 Free Trial
 
-**We do NOT offer a free trial** because the free tier (3 workouts/week) serves as your trial period. You can try the app with limited features before deciding to upgrade to Premium.
+Free users can log unlimited workouts with ads. Any subscription trial or offer available to you is shown by Apple before purchase.
 
 ### 3.3 Billing and Auto-Renewal
 
@@ -64,7 +63,7 @@ Prices may vary by region and are subject to applicable taxes.
 ### 3.4 Managing Subscriptions
 
 - Manage subscriptions and turn off auto-renewal in App Store Account Settings after purchase
-- Go to: Settings → [Your Name] → Subscriptions → HomeGym Pro
+- Go to: Settings → [Your Name] → Subscriptions → Gain
 - You can cancel anytime without penalty
 - Cancellation takes effect at the end of the current billing period
 - You retain access to premium features until the end of your current billing period
@@ -78,19 +77,18 @@ Prices may vary by region and are subject to applicable taxes.
 ### 3.6 Subscription Benefits
 
 Premium subscription includes:
-- **Unlimited Workouts**: Removes the 3 workouts/week limit
+- **AI Workout Generation**: Higher generation allowance, subject to model availability
 - **Complete Ad Removal**: No banner or interstitial ads
 - **Advanced Analytics**: Performance insights and trend analysis
 - **Custom Workout Builder**: AI-assisted workout creation
 - **Unlimited History**: Complete workout history with analytics
-- **Priority Support**: Faster response to support requests
 
 ### 3.7 Downgrading or Canceling
 
 - Free tier always available (no need to cancel to use free features)
 - Cancel subscription anytime through App Store settings
 - Access premium features until subscription period ends
-- After cancellation, you revert to free tier (3 workouts/week + ads)
+- After cancellation, you revert to free tier (unlimited workouts with ads)
 
 ---
 
@@ -99,36 +97,21 @@ Premium subscription includes:
 ### 4.1 Free Tier Limitations
 
 Free tier users have access to:
-- Maximum 3 complete workouts per week
-- All 230+ exercises in our database
+- Unlimited complete workouts
+- The available exercise catalog
 - Basic progress tracking
 - HealthKit integration (optional)
 - Equipment-based workout planning
 
-Free tier users will see:
-- Banner advertisements during rest periods (320x100px at bottom of screen)
-- Interstitial advertisements after workout completion
-- Ads are contextual (fitness/health related) not tracking-based
+Free tier users may see native and interstitial advertisements.
 
-### 4.2 Workout Limit Reset
+### 4.2 Workout and AI Availability
 
-- Workout limit resets every 7 days automatically
-- Reset occurs at midnight (device local time)
-- Partial workouts do NOT count toward limit
-- Only completed workouts count toward the 3/week limit
+Workout logging has no weekly workout-count limit. Optional AI workout generation may have a daily allowance and requires a compatible device and available model. Check the app for the current generation allowance.
 
 ### 4.3 Advertising (Free Tier Only)
 
-Free tier users will see advertisements provided by Google AdMob:
-- Banner ads during workout rest periods
-- Interstitial ads after workout completion
-- Ads are contextual (fitness/health related)
-- We do NOT track you across apps or websites
-- Premium subscribers see NO ads and no advertising data is collected
-
-**Opt-Out Options:**
-- Limit ad tracking in Settings → Privacy & Security → Apple Advertising
-- Upgrade to Premium for complete ad removal
+The free app integrates Google AdMob. The advertising service may process device identifiers, IP address, ad interactions, usage information and diagnostics to deliver and measure ads, and may use data for tracking as described in the App Store privacy disclosure and your consent or device settings. Premium provides an ad-free experience. See the [Privacy Policy](/fitjournal-website/privacy-policy/) for details and third-party privacy links. Manage available tracking permissions in iOS Settings.
 
 ---
 
@@ -168,15 +151,7 @@ You agree NOT to:
 
 ## 7. Privacy
 
-Your privacy is fundamental to how we built HomeGym Pro. Please review our [Privacy Policy](/privacy-policy/) to understand how we protect your information. Key points:
-
-- All workout data stays on your device (local storage only)
-- No personal information is collected or stored on our servers
-- HealthKit integration is local and secure (optional)
-- Free users: AdMob displays contextual ads (NOT tracking-based)
-- Premium users: No ads, no advertising data collected
-- We do NOT track you across apps or websites
-- We do NOT sell your data to third parties
+See the [Privacy Policy](/fitjournal-website/privacy-policy/) for information about local records, Apple Health permissions, advertising, purchases, exports and support. Workout records are stored on your device; copies you export or retain in backups are controlled by their destinations. Third-party advertising and purchase services process information as described in that policy. Premium provides an ad-free experience.
 
 ---
 
@@ -184,7 +159,7 @@ Your privacy is fundamental to how we built HomeGym Pro. Please review our [Priv
 
 ### 8.1 Ownership
 
-All rights, title, and interest in the App belong to HomeGym Pro:
+All rights, title, and interest in the App belong to Gain:
 - Exercise database and workout plans
 - User interface and design
 - Trademarks and branding
@@ -291,9 +266,9 @@ If any provision of these Terms is found to be unenforceable or invalid, that pr
 If you have questions about these Terms of Service or need support:
 
 **Website:** https://gautam-u.github.io/fitjournal-website/
-**App Store:** HomeGym Pro
+**App Store:** Gain
 
-We typically respond within 24-48 hours.
+**Email:** [gautam.ux@gmail.com](mailto:gautam.ux@gmail.com)
 
 ---
 
@@ -305,18 +280,18 @@ These Terms are effective as of the date you first use the App and remain in eff
 
 ## Summary (TL;DR)
 
-✅ **Free tier**: 3 workouts/week + contextual ads (NOT tracking-based)
+✅ **Free tier**: Unlimited workout logging with ads
 ✅ **Premium**: $2.99/month or $19.99/year (save 44%)
-✅ **No free trial**: Free tier serves as your trial period
+✅ **Offers**: Check the purchase screen for any available trial or offer
 ✅ **Auto-renewal**: Cancel anytime in App Store settings
 ✅ **Refunds**: Through Apple Support (not us directly)
 ✅ **Safety**: Consult doctor before starting exercise
 ✅ **Privacy**: Workout data stays on your device
-✅ **Ads**: Free users see contextual fitness ads, premium users see NO ads
-✅ **No tracking**: We don't track you across apps or websites
+✅ **Ads**: The free app uses AdMob; Premium provides an ad-free experience
+✅ **Advertising data**: See the Privacy Policy and available iOS permissions
 
 ---
 
-*By using HomeGym Pro, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.*
+*By using Gain, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.*
 
-**Last Updated**: November 5, 2025
+**Last Updated**: October 28, 2026
