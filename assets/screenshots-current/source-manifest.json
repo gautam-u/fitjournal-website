@@ -1,0 +1,23 @@
+{
+  "app": "Gain",
+  "version": "1.3.18",
+  "capturedOrVerified": "2026-10-28",
+  "note": "Screens from the latest tested 1.3.18 release candidate. The current App Store version may differ.",
+  "files": [
+    {
+      "file": "01.png",
+      "source": "gain-today.png",
+      "label": "Today"
+    },
+    {
+      "file": "02.png",
+      "source": "gain-approved-plan-2026-10-26/plan-ready-in-today.png",
+      "label": "Weekly plan"
+    },
+    {
+      "file": "03.png",
+      "source": "gain-grounded-2026-10-26/adaptation-preview.png",
+      "label": "Review adjustments"
+    }
+  ]
+}
