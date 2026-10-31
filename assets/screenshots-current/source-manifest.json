@@ -1,23 +1,23 @@
 {
   "app": "Gain",
-  "version": "1.3.18",
-  "capturedOrVerified": "2026-10-28",
-  "note": "Screens from the latest tested 1.3.18 release candidate. The current App Store version may differ.",
+  "version": "1.3.19 (336)",
+  "capturedOrVerified": "2026-10-31",
+  "note": "Simulator UI tests use demonstration workouts; the current App Store version may differ.",
   "files": [
     {
       "file": "01.png",
-      "source": "gain-today.png",
+      "source": "gain-store-shots-current.xcresult: testTodayDashboardShowsExercisesAndQuickActionsBeforeStarting",
       "label": "Today"
     },
     {
       "file": "02.png",
-      "source": "gain-approved-plan-2026-10-26/plan-ready-in-today.png",
+      "source": "gain-store-shots-current.xcresult: testPlanExplainsItIsAlreadySelectedAndShowsTheSameLoadAsToday",
       "label": "Weekly plan"
     },
     {
       "file": "03.png",
-      "source": "gain-grounded-2026-10-26/adaptation-preview.png",
-      "label": "Review adjustments"
+      "source": "gain-store-shots-current.xcresult: testFullCatalogPaginationAndMissingChinUpEquipmentFromPlan",
+      "label": "Swap exercise"
     }
   ]
 }
