@@ -268,7 +268,7 @@ If you have questions about these Terms of Service or need support:
 **Website:** https://gautam-u.github.io/fitjournal-website/
 **App Store:** Gain
 
-**Email:** [gautam.ux@gmail.com](mailto:gautam.ux@gmail.com)
+**Feedback:** [Write an App Store review](https://apps.apple.com/app/id6749831774?action=write-review). Reviews are public.
 
 ---
 

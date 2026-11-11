@@ -95,7 +95,7 @@ features:
 
 ### Content Updates
 - App Store link: Update `appstore_link` in `_config.yml`
-- Contact email: Update `email_address` in `_config.yml`
+- Contact: there is no support mailbox; pages link to the App Store review page
 - App description: Update `app_description` in `_config.yml`
 
 ### Page Creation
